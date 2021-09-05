@@ -2,7 +2,15 @@
 it has 3 User Interfaces, The Admin Side, that can see overall summary charts of students performance, 
 staffs performances, courses, subjects, leave, etc. Staff/Teacher Side, can see the overall summary charts related to their students, 
 their subjects, leave status, etc. and Student Side, that can see the overall summary charts related to their attendance, their subjects, leave status, etc.
-
+In This Student Management System Project In Django Consist Of The Following Method:
+student_management_app:
+In this method which is the management system of the students and the staff.
+student_management_system:
+In this method which is the main method of the system.
+static:
+In this method which you can found all the design, that being used in this system.
+media:
+In this method which you can found all the media the being uploaded to the system.
 
 # Requirments
 asgiref==3.2.10
@@ -44,13 +52,4 @@ View Result
 Apply for Leave
 Send Feedback to HOD
 
-# In This Student Management System Project In Django Consist Of The Following Method:
 
-# student_management_app –
-In this method which is the management system of the students and the staff.
-# student_management_system –
-In this method which is the main method of the system.
-# static – 
-In this method which you can found all the design, that being used in this system.
-# media –
-In this method which you can found all the media the being uploaded to the system.
